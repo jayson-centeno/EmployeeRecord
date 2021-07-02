@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EmployeeRecord.Api</name>
+    </assembly>
+    <members>
+        <member name="M:EmployeeRecord.Api.Controllers.EmployeeController.Post(EmployeeRecord.Api.ViewModel.NewEmployeeVM)">
+            <summary>
+            Create an employee
+            </summary>
+            <param name="employee">Employee</param>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeRecord.Api.Controllers.EmployeeController.GetAll(EmployeeRecord.Api.ViewModel.GetEmployeesQueryVM)">
+            <summary>
+            Get an employee
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeRecord.Api.Controllers.EmployeeController.Put(EmployeeRecord.Api.ViewModel.EmployeeVM)">
+            <summary>
+            Update an employee
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeRecord.Api.Controllers.EmployeeController.Delete(System.Int32)">
+            <summary>
+            Delete an employee
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
