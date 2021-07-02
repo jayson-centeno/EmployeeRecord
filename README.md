@@ -1,2 +1,3 @@
 # EmployeeRecord
-EmployeeRecord Using CQS and Fluent Validation
+EmployeeRecord Using CQS, Fluent Validation, Repository Pattern and Unit Testing in .Net Core
+
