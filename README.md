@@ -22,4 +22,5 @@ OR
 7. DBUp - Database Migration
 8. Repository Pattern
 9. Unit Testing - Nunit, Mock-Automock
-10. FluenValidation - https://fluentvalidation.net
+10. FluenValidation - https://fluentvalidation.net\
+11. .Net Logging
