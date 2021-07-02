@@ -3,7 +3,8 @@ EmployeeRecord Using CQS, Fluent Validation, Repository Pattern and Unit Testing
 
 **Setup:**
 1. Attach SQL data - EmployeeRecord.bak 
-2. Connection String is in appsettings.json
+2. ConnectionString is in appsettings.json
+3. ConnectionString value is the (local)
 OR
 3. Run dotnet-ef-cli-install.bat
 4. init-database.sql - To Create the database and users
