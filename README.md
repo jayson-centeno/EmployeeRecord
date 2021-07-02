@@ -26,3 +26,4 @@ OR
 9. Unit Testing - Nunit, Mock-Automock
 10. FluenValidation - https://fluentvalidation.net\
 11. .Net Logging
+12. Dependency Injection - Builtin .Net Core
